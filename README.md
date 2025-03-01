@@ -2,7 +2,7 @@ Cyclistic Case Study
 Analyzing bike-share data to understand member vs. casual rider behavior and drive membership growth.
 
 📌 Overview
-This project analyzes bike-share data made available by Motivate International Inc. under this license. to explore the differences between annual members and casual riders. The goal is to provide data-driven insights and recommendations to increase membership conversions.
+This project analyzes bike-share data made available by Motivate International Inc. under this license https://www.divvybikes.com/data-license-agreement. to explore the differences between annual members and casual riders. The goal is to provide data-driven insights and recommendations to increase membership conversions.
 
 Data Source: Cyclistic trip data (last 12 months)
 Tools Used: SQL (BigQuery), Looker Studio
