@@ -1,0 +1,6 @@
+🚴‍♂️ **Cyclistic Case Study - Key Insights**
+------------------------------------------
+- **Members** ride most during **weekday mornings (8 AM)** and **evenings (5 PM)** → commuting behavior.
+- **Casual riders** ride slightly more on **weekdays than weekends**, peaking in **afternoons (2 PM - 4 PM)**.
+- **Weekday commutes** drive **higher ride volume** for members, while **leisure-based rides** dominate for casual users.
+- **Heatmap confirms** that members have **higher weekday activity**, while casual riders peak in **weekday afternoons**.
