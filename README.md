@@ -32,8 +32,6 @@ Insights_Summary.txt	Concise summary of key insights.
 [Looker_Studio_Dashboard_Link.txt](https://lookerstudio.google.com/s/kZaDim4jGog
 )	Link to the interactive dashboard.
 
-🔗 View the Dashboard
-🔗 Click here to view the interactive Looker Studio Dashboard
 
 ✅ Next Steps
 📌 Implement membership strategies based on findings.
